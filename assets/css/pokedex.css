@@ -1,3 +1,10 @@
+.content h1 {
+    display: flex;
+    justify-content: center;
+    border: solid 1px;
+    border-radius: 1.5rem; 
+}
+
 .pokemons {
     display: grid;
     grid-template-columns: 1fr;
